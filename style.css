@@ -1,3 +1,38 @@
 .row_custom{
     margin-right: 0;
 }
+
+.block__content_title{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.section_deal_hot .block-product .item .product-thumb-info .info-action-start .product-info{
+    border-bottom: 1px solid #5d2c14 !important;
+}
+
+.section_deal_hot .block-product .item .product-thumb-info .info-action-start .product-info .product-name::before{
+    background: #5d2c14 !important;
+}
+
+.section_deal_hot .block-product .item .product-thumb-info .info-action-start .product-info .product-name a{
+    color: #5d2c14 !important;
+}
+.section_deal_hot .block-product .item .product-thumb-info .info-action-start .product-info .price-box {
+    color: #5d2c14 !important;
+}
+
+.section_deal_hot .block-title .buynow a{
+    background: #5d2c14 !important;
+    border: 1px solid #5d2c14 !important;
+    color: #fff !important;
+}
+
+.section_service .service-slider{
+    background : #5d2c14 !important;
+}
+
+.section_service .service-slider .swiper-slide .block-content h3 a{
+    color: #fed26b !important;
+}
