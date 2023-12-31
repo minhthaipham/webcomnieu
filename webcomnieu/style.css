@@ -1,0 +1,56 @@
+.row_custom{
+    margin-right: 0;
+}
+
+.block__content_title{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.section_deal_hot .block-product .item .product-thumb-info .info-action-start .product-info{
+    border-bottom: 1px solid #5d2c14 !important;
+}
+
+.section_deal_hot .block-product .item .product-thumb-info .info-action-start .product-info .product-name::before{
+    background: #5d2c14 !important;
+}
+
+.section_deal_hot .block-product .item .product-thumb-info .info-action-start .product-info .product-name a{
+    color: #5d2c14 !important;
+}
+.section_deal_hot .block-product .item .product-thumb-info .info-action-start .product-info .price-box {
+    color: #5d2c14 !important;
+}
+
+.section_deal_hot .block-title .buynow a{
+    background: #5d2c14 !important;
+    border: 1px solid #5d2c14 !important;
+    color: #fff !important;
+}
+
+.section_service .service-slider{
+    background : #5d2c14 !important;
+}
+
+.section_service .service-slider .swiper-slide .block-content h3 a{
+    color: #fed26b !important;
+}
+
+.section_time_active .innder {
+    background: #5d2c14 !important;
+}
+
+.logo-footer img {
+    max-height: 300px !important;
+    padding-top: 10px;
+}
+.footer .mid-footer .footer-des {
+    margin-top: 50px !important;
+}
+@media screen and (max-width: 767px) {
+    .footer .mid-footer .footer-des {
+        margin-top: 0px !important;
+    }
+    
+}
